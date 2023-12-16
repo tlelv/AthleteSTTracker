@@ -32,6 +32,9 @@ Main Goal: Create an easily accessible program that records, predicts, and displ
 
 # Examples to look at for inspiration:
 - Team builder app (upload workout
+  - Team builder has easy join codes for the athletes made by the trainers. The trainers should have to put in the info, not the athletes.
+  - Features of team bulder: Mobile app, TV modules, Program templates, Tablets that track athletes ON the rig, Tracking your max, Auto generated reports, Testing, Goals and standards testing, Current news, Video uploading for coach feedback
+  - An example of a project already made helps me analyze what I should prioritize in my program for Regis, specially designed for them. Need to ask more questions.
   
 # Steps:
 - Start by making the program in Java like our previous projects,
@@ -41,4 +44,6 @@ Main Goal: Create an easily accessible program that records, predicts, and displ
 - Create Login and New User methods
 - New Users should input their posiiton (Trainer/Athlete), Sports Team (Given options), First and last name, Age, Weight, Height, Birth gender
 - Trainers do not need to input their stats as they do not need to be recorded, only that they will control the athletes
+
+- ASK MORE QUESTIONS TO SEE WHAT I NEED TO PRIORITIZE IN MY PROGRAM SPECIFICALLY FOR MY COLLEGE
 
