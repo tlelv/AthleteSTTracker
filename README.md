@@ -41,9 +41,12 @@ Main Goal: Create an easily accessible program that records, predicts, and displ
 - Create an html interface, connecting the Java project into the backend
 
 # Current Focus:
-- Create Login and New User methods
-- New Users should input their posiiton (Trainer/Athlete), Sports Team (Given options), First and last name, Age, Weight, Height, Birth gender
-- Trainers do not need to input their stats as they do not need to be recorded, only that they will control the athletes
+~~- Create Login and New User methods~~ (Scratched)
+~~X New Users should input their posiiton (Trainer/Athlete), Sports Team (Given options), First and last name, Age, Weight, Height, Birth gender~~ (Scratched)
+~~X Trainers do not need to input their stats as they do not need to be recorded, only that they will control the athletes~~ (Scratched)
+- Create a model in Java
+  - This model will have a functioning menu where trainers can register, create profiles for athletes, and allow athletes to login to the program with a given code associated to them.
+  - Future plans are to allows the tracking of stats and weights
 
 - ASK MORE QUESTIONS TO SEE WHAT I NEED TO PRIORITIZE IN MY PROGRAM SPECIFICALLY FOR MY COLLEGE
 
